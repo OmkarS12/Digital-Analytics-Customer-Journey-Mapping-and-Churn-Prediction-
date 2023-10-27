@@ -12,3 +12,4 @@ The Dataset consists of 9240 observations and 37 features in total. The Dataset 
 
 
 Data Source: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+<img width="571" alt="image" src="https://github.com/OmkarS12/Customer-Churn-Anlaysis/assets/122317280/012c9ca2-f5bd-4035-baaa-bb7599cb6362">
